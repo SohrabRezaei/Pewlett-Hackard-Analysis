@@ -16,12 +16,12 @@ The purpose of the analysis is creating several tables with SQL in order to dete
 
 ## Summary
 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 As shown in the picture below , 72458 employees are retiring and their positions needs to be filled.
 [![p.jpg](https://i.postimg.cc/SxsZ1M0D/p.jpg)](https://postimg.cc/VdxBd5kC)
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 In order to find qualified employees, I filtered out their titles and salary to determine the high position for each department. It is obvious that there aren't enough candidates to mentor the next generation of Pewlett Hackard employees based on the empty positions and the numbers that we see in this picture.
 
