@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis-Challenge
+# Pewlett-Hackard-Analysis
 
 ## Overview of the analysis
 
